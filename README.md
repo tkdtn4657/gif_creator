@@ -6,6 +6,9 @@
 - 외부 라이브러리·런타임 설치 불필요 — Windows 10/11에 기본 내장된 .NET Framework만 사용
 - 단일 exe (약 25KB)
 
+- <img width="365" height="261" alt="image" src="https://github.com/user-attachments/assets/570c20a2-b2f9-4e41-a3a8-b9b1839ec3d7" />
+
+
 ## 사용법
 
 1. `dist\GifCreator.exe` 실행
