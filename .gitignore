@@ -1,0 +1,7 @@
+# test output
+dist/selftest.log
+*.log
+
+# dist/GifCreator.exe is intentionally tracked (small, self-contained binary).
+# Uncomment the next line if you prefer not to commit binaries:
+# dist/

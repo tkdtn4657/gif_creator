@@ -6,13 +6,18 @@
 - 외부 라이브러리·런타임 설치 불필요 — Windows 10/11에 기본 내장된 .NET Framework만 사용
 - 단일 exe (약 25KB)
 
-- <img width="365" height="261" alt="image" src="https://github.com/user-attachments/assets/570c20a2-b2f9-4e41-a3a8-b9b1839ec3d7" />
+## 데모
 
+영역 선택 → 녹화(빨간 테두리) → F9 중지 → 저장까지의 전 과정:
+
+![튜토리얼](docs/tutorial.gif)
+
+위 시연에서 실제로 만들어진 GIF: [docs/player-capture.gif](docs/player-capture.gif)
 
 ## 사용법
 
 1. `dist\GifCreator.exe` 실행
-2. FPS (1 ~ 15) 와 최대 길이(1 ~ 30초) 설정
+2. FPS(1~15)와 최대 길이(1~30초) 설정
 3. **[● 영역 선택 후 녹화 시작]** 클릭
 4. 화면이 어두워지면 캡처 도구처럼 **드래그로 영역 지정** (ESC로 취소)
 5. 빨간 테두리가 표시되며 녹화 시작
