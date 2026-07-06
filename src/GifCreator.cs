@@ -91,7 +91,7 @@ namespace GifCreatorApp
 
             numSec = new NumericUpDown();
             numSec.Minimum = 1;
-            numSec.Maximum = 30;
+            numSec.Maximum = 120;
             numSec.Value = 30;
             numSec.SetBounds(140, 47, 60, 24);
             Controls.Add(numSec);
